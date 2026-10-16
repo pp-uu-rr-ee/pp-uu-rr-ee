@@ -17,7 +17,7 @@ interactive user interfaces.
 
 ## 🛠️ Tech Stack
 
-**Languages** - Python- C - JavaScript - TypeScript - SQL
+**Languages** - Python - C - JavaScript - TypeScript - SQL
 
 **Frontend** - React - Next.js
 
